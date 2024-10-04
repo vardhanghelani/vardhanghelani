@@ -26,6 +26,7 @@ I am a passionate **[Web Devloper]** with a love for creating innovative solutio
 ## 🌱 What I'm learning
 
 Currently diving deep into **Next.js** and **React.js** to improve my skills in scalable, server-side rendering applications.
+Also learning **DSA** with **Java**
 
 ---
 
