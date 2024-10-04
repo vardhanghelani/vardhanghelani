@@ -16,6 +16,9 @@ I am a passionate **[Web Devloper]** with a love for creating innovative solutio
 
 ---
 
+
+---
+
 ## 🔭 What I'm working on
 
 - [Project 1](https://github.com/vardhanghelani/React_Full_CRUD) - A web application for managing [Managing Stocks and Managing Sales Data].
