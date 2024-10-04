@@ -1,6 +1,6 @@
 # Hi there, I'm [Vardhanghelani]! 👋
 
-![Profile views](https://gpvc.arturio.dev/[vardhanghelani])
+![Profile views](https://gpvc.arturio.dev/vardhanghelani)
 
 I am a passionate **[Web Devloper]** with a love for creating innovative solutions through **Web Development**, **Programming**, and **Open Source Contributions**. My main areas of focus are **React**, **JavaScript**, and **Full-Stack Development**. I enjoy learning new technologies and sharing my knowledge with the community.
 
