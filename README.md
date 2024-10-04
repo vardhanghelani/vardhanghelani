@@ -15,7 +15,7 @@ I am a passionate **[Web Devloper]** with a love for creating innovative solutio
 - **Databases**: MongoDB, MySQL,
 
 ---
-https://github.com/vardhanghelani/vardhanghelani/blob/main/imgs/artificial-intelligence-robot-point-vector-43479788-removebg-preview.png
+(https://github.com/vardhanghelani/vardhanghelani/blob/main/imgs/artificial-intelligence-robot-point-vector-43479788-removebg-preview.png?raw=true)
 
 ---
 
